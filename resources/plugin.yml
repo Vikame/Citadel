@@ -1,0 +1,5 @@
+name: Citadel
+version: 1.0.0
+author: ThreadSafe
+main: org.systic.citadel.Citadel
+softdepend: [ASkyblock, KoTH, ProVotes, Vault]

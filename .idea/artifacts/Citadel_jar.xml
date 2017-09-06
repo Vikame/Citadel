@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Citadel:jar">
+    <output-path>$USER_HOME$/Desktop/Server/plugins/AncientGates/</output-path>
+    <root id="archive" name="Citadel.jar">
+      <element id="module-output" name="SysticCore" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
